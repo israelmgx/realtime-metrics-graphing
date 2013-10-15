@@ -1,0 +1,8 @@
+name=Realtime System View
+version=2.0
+platforms=windows linux solaris
+description=Provides ability to drill down to any system with an up.time agent and view real-time (per-second) CPU/Memory utilization!
+restartCore=false
+requiresAgentScript=false
+onUpgradeRemoveFiles=true
+onUpgradeRemoveMonitors=false
