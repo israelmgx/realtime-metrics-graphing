@@ -1,9 +1,15 @@
 # Realtime Metrics Graphing
-## Tags : plugin   realtime  
 
-## Category: plugin
+See http://uptimesoftware.github.io for more information.
 
-##Version Compatibility<br/>Module Name</th><th>up.time Monitoring Station Version</th>
+### Tags 
+ plugin   realtime  
+
+### Category
+
+{ page.category }}
+
+### Version Compatibility
 
 
   
@@ -11,15 +17,32 @@
   
 
 
-### Description: Chart real-time data in a dashboard.
+### Description
+Chart real-time data in a dashboard.
 
-### Supported Monitoring Stations: 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
-### Supported Agents: None; no agent required
-### Installation Notes: <p><a href="https://github.com/uptimesoftware/uptime-plugin-manager">Install using the up.time Plugin Manager</a></p>
 
-### Dependencies: <p>n/a</p>
+### Supported Monitoring Stations
 
-### Input Variables: 
-### Output Variables: 
-### Languages Used: * PHP
+7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+
+### Supported Agents
+None; no agent required
+
+### Installation Notes
+<p><a href="https://github.com/uptimesoftware/uptime-plugin-manager">Install using the up.time Plugin Manager</a></p>
+
+
+### Dependencies
+<p>n/a</p>
+
+
+### Input Variables
+
+
+### Output Variables
+
+
+
+### Languages Used
+* PHP
 
